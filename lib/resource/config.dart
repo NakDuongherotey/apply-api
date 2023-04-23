@@ -1,0 +1,1 @@
+var rootUrl = 'example.com/';
